@@ -1,7 +1,7 @@
-
+# Speaker Spotlight Card
 
 A simple speaker spotlight card built with HTML and CSS.
 
+## Live URL
 
-
-https://your-project-name.vercel.app
+https://speaker-spotlight-xi.vercel.app/
